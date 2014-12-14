@@ -54,10 +54,10 @@ manually and frequently.
 
 ####Sources
 * [thoughtworks.com]  
-*italic*http://www.thoughtworks.com/continuous-integration
+*http://www.thoughtworks.com/continuous-integration*
 
 * [Wikipedia english]  
-*italic*http://en.wikipedia.org/wiki/Continuous_integration
+*http://en.wikipedia.org/wiki/Continuous_integration*
 
 * [Wikipedia german]  
-*italic*http://de.wikipedia.org/wiki/Kontinuierliche_Integration
+*http://de.wikipedia.org/wiki/Kontinuierliche_Integration*
