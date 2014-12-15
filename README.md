@@ -1,6 +1,6 @@
-Entwurf von Softwaresystemen
-Christoph Krenn
-1017553
+Entwurf von Softwaresystemen  
+Christoph Krenn  
+1017553  
 
 Proseminar sheet 9
 ==================
